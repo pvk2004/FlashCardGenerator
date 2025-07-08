@@ -1,3 +1,14 @@
+---
+title: AI Comprehensive Question Generator
+emoji: 📚
+colorFrom: blue
+colorTo: indigo
+sdk: docker
+sdk_version: "latest"
+app_file: app.py
+pinned: false
+---
+
 # AI Comprehensive Question Generator
 
 🎓 **Generate detailed 10-mark questions and answers from PDF content using AI**
