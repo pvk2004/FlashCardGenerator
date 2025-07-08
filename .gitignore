@@ -252,7 +252,7 @@ $RECYCLE.BIN/
 .nfs*
 
 # Streamlit specific
-.streamlit/
+-.streamlit/
 
 # Logs
 *.log
