@@ -1,15 +1,15 @@
----
-title: AI Comprehensive Question Generator
-emoji: 📚
-colorFrom: blue
-colorTo: indigo
-sdk: docker
-sdk_version: "latest"
-app_file: app.py
-pinned: false
----
 
 # AI Comprehensive Question Generator
+
+[![Streamlit Cloud](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://flashcardgenerator-bypvk.streamlit.app/)
+
+---
+
+## 🚀 Live Demo
+
+Try the app instantly on Streamlit Cloud: [https://flashcardgenerator-bypvk.streamlit.app/](https://flashcardgenerator-bypvk.streamlit.app/)
+
+---
 
 🎓 **Generate detailed 10-mark questions and answers from PDF content using AI**
 
@@ -41,7 +41,14 @@ A powerful Streamlit application that extracts text from PDFs and generates comp
 
 ## 🚀 Quick Start
 
-### Prerequisites
+### Try Online
+
+- **No installation needed!**
+- Use the app instantly on Streamlit Cloud: [https://flashcardgenerator-bypvk.streamlit.app/](https://flashcardgenerator-bypvk.streamlit.app/)
+
+### Run Locally
+
+#### Prerequisites
 
 - Python 3.8 or higher
 - pip (Python package installer)
